@@ -3,7 +3,7 @@
 
 Write introduction
 
-Check out my LinkedIn and my blog to learn more about me.
+Check out my [LinkedIn](https://www.linkedin.com/in/spencerdorway) and my blog to learn more about me.
 
 #### HTML & CSS
 * [HTML & CSS  Examples](./HTML-CSS)
