@@ -1,0 +1,20 @@
+1,Marcel Proust
+2,Spencer Dorway
+3,James Joyce
+4,Miguel de Cervantes
+5,Herman Melville
+6,Leo Tolstoy
+7,Leo Tolstoy
+8,J. K. Rowling
+9,J. K. Rowling
+10,J. K. Rowling
+11,J. K. Rowling
+12,J. K. Rowling
+13,J. K. Rowling
+14,J. K. Rowling
+15,F. Scott Fitzgerald
+16,Stephen King
+17,Gustave Flaubert
+18,Fyodor Dostoyevsky
+19,Gabriel Garcia Marquez
+20,Mark Twain

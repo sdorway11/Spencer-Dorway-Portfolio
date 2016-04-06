@@ -1,0 +1,20 @@
+1,In Search of Lost Time,Hachette Livre
+2,The Lost Tribe,Hachette Livre
+3,Ulysses,Pearson
+4,Don Quixote,Pearson
+5,Moby Dick,Pearson
+6,War and Peace,HarperCollins
+7,Anna Karenina,HarperCollins
+8,Harry Potter and the Philosopher's Stone,Penguin Random House
+9,Harry Potter and the Chamber of Secrets,Penguin Random House
+10,Harry Potter and the Prisoner of Azkaban,Penguin Random House
+11,Harry Potter and the Goblet of Fire,Penguin Random House
+12,Harry Potter and the Order of the Phoenix,Penguin Random House
+13,Harry Potter and the Half-Blood Prince,Penguin Random House
+14,Harry Potter and the Deathly Hallows,Penguin Random House
+15,The Great Gatsby ,HarperCollins
+16,The Shining,AKW Books
+17,Madame Bovary,Hachette Livre
+18,The Brothers Karamazov,Eagle Book Publishing
+19,One Hundred Years of Solitude,Eagle Book Publishing
+20,The Adventures of Huckleberry Finn,AKW Books
