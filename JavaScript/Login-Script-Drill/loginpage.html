@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Login Page</title>
+		<link rel="stylesheet" type="text/css" href="loginstyle.css">
+        <link href="lightbox.css" rel="stylesheet">
+		<!--(if lt IE 9)>
+		<script>
+			document.createElement("article");
+			document.createElement("aside");
+			document.createElement("footer");
+			document.createElement("header");
+			document.createElement("section");
+			document.createElement("form");
+			document.createElement("main");
+		</script>
+		<!(endif)-->
+	</head>
+	<body>
+		<header class="banner">
+			<h1>Login</h1>
+			<p>HTML and CSS practice</p>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">Menu</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://spencerdorway.prosperitacademy.com/">Home</a></li>
+                        <li><a href="http://spencerdorway.prosperitacademy.com/about/">About Us</a></li>
+                        <li><a href="http://spencerdorway.prosperitacademy.com/our-work/">Services</a></li>
+                        <li class="lastList"><a href="http://spencerdorway.prosperitacademy.com/contact/">Contact</a></li>
+                    </ul>
+                </div>
+            <p></p><a href="slideShow.html">View Vacation Slide Show</a></p>
+             <a href="Macaw.jpg" rel="lightbox" title="This is a Macaw" /><img class="thumb"src="macaw.jpg" /></a>
+             </header>
+		
+		<main>
+			<section class="loginform">
+				<div class="login">
+					<h1>Login</h1>
+					<form method="post" action="">						
+						<p>
+							<input type="text" name="login" value="" placeholder="Username or Email" required>
+						</p>
+						<p>
+							<input type="password" name="password" value="" placeholder="Password" required>
+						</p>
+						<p class="remember_me">
+							<label>
+								<label>
+									<input type="checkbox" name="remember_me" id="remember_me">
+									Remember me on this computer
+								</label>
+							</label>
+						</p>
+						<p class="submit">
+							<input type="submit" value="Login">
+						</p>						
+					</form>
+				</div>
+			</section>
+			<div class="login-help">
+				<p>Forgot your password?<a href="#">Click here to reset it</a>.</p>
+			</div>
+		</main>
+		
+		
+		<footer>
+			<p>Spencer Dorway</p>
+		</footer>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
+        <script type="text/javascript" src="loginPageJS.js"></script>
+        <script type="text/javascript" src="lightbox.js"></script>
+	</body>
+</html>
