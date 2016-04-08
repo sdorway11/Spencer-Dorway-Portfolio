@@ -7,4 +7,4 @@ This was an excellent exercise for me to practice working with many different fe
 
 I also learned a valuble lesson after struggling with the webscrape aspect using BeautifulSoup4. I couldn't figure out why I was having a problem with it and it didn't seem to have any errors but it just wasn't working. It turned out to not be a problem with the code but for some reason Visual Studio just wasn't handeling the modual so I just had to write the program in IDLE.
 
-Return to [portfolio](../../../)
+Return to [portfolio](../../)
